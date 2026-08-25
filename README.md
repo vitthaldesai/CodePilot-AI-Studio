@@ -455,7 +455,7 @@ BCA — Bachelor of Computer Applications
 
 ## License
 
-This project is developed for educational and academic purposes.
+CodePilot AI is a full-stack AI-powered code review platform built to help developers detect bugs, identify security vulnerabilities, optimize performance, and improve overall code quality.
 
 ```
 ```
