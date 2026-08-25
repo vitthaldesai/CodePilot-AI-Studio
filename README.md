@@ -298,11 +298,14 @@ The project is deployed using:
 
 **Frontend**
 
-https://codepilot-ai-nine.vercel.app/
+https://code-pilot-ai-studio-53rqt4zyn-desai3.vercel.app/
 
 **Backend**
 
-https://codepilot-ai-backend-d7wx.onrender.com/
+https://codepilot-ai-backend-sdyp.onrender.com/
+
+**API Docs**
+https://codepilot-ai-backend-sdyp.onrender.com/docs
 
 ---
 
