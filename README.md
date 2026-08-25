@@ -309,6 +309,9 @@ https://codepilot-ai-backend-sdyp.onrender.com/docs
 
 ---
 
+
+---
+
 ## Security Considerations
 
 The application follows several basic security practices:
