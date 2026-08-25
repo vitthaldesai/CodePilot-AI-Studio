@@ -7,6 +7,9 @@ CodePilot AI is a full-stack web application that uses artificial intelligence t
 It helps developers identify potential bugs, security vulnerabilities, performance issues, code-quality problems, and improvement opportunities before committing or merging code into a project.
 
 ---
+## Live Demo 
+
+https://code-pilot-ai-studio-53rqt4zyn-desai3.vercel.app/
 
 ## Features
 
