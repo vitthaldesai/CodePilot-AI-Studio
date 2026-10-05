@@ -9,7 +9,7 @@ It helps developers identify potential bugs, security vulnerabilities, performan
 ---
 ## Live Demo 
 
-https://code-pilot-ai-studio-53rqt4zyn-desai3.vercel.app/
+https://code-pilot-ai-studio.vercel.app/
 
 1. 🏠 Home / Landing Page
 
